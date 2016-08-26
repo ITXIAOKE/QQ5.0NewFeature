@@ -1,0 +1,1 @@
+include ':app', ':swipedelete', ':quicksearch', ':qqslidingmenu', ':nianxing'
